@@ -1,0 +1,1305 @@
+LIST OF PUBLICATIONS 
+1. IEEE Transactions on Dependable and Secure Computing
+
+
+V2V QoS Guaranteed Channel Access in IEEE 802.11p VANETs
+Che-Yu Chang;Hsu-Chun Yen;Der-Jiunn Deng
+
+
+Random Transmit Power Control for DSRC and its Application to Cooperative Safety
+Bernhard Kloiber;Jérôme Härri;Thomas Strang;Stephan Sand;Cristina Rico García
+
+
+Secure and Robust Multi-Constrained QoS Aware Routing Algorithm for VANETs
+Mahmoud Hashem Eiza;Thomas Owens;Qiang Ni
+
+
+Securing Vehicular IPv6 Communications
+Pedro J. Fernández;José Santa;Fernando Bernal;Antonio F. Skarmeta
+
+
+Historical Spectrum Sensing Data Mining for Cognitive Radio Enabled Vehicular Ad-Hoc Networks
+Xin-Lin Huang;Jun Wu;Wenfeng Li;Zhifeng Zhang;Fusheng Zhu;Minghao Wu
+
+
+PBA: Prediction-Based Authentication for Vehicle-to-Vehicle Communications
+Chen Lyu;Dawu Gu;Yunze Zeng;Prasant Mohapatra
+
+
+Impossible Differential Fault Analysis on the LED Lightweight Cryptosystem in the Vehicular Ad-Hoc Networks
+Wei Li;Wenwen Zhang;Dawu Gu;Yanqin Cao;Zhi Tao;Zhihong Zhou;Ya Liu;Zhiqiang Liu
+
+
+MixGroup: Accumulative Pseudonym Exchanging for Location Privacy Enhancement in Vehicular Social Networks
+Rong Yu;Jiawen Kang;Xumin Huang;Shengli Xie;Yan Zhang;Stein Gjessing
+
+
+A Pseudonym Management System to Achieve Anonymity in Vehicular Ad Hoc Networks
+Hassan Artail;Noor Abbani
+
+
+Trustworthy Parking Communities: Helping Your Neighbor to Find a Space
+Julian Timpner;Dominik Schürmann;Lars Wolf
+
+
+Bayesian Coalition Negotiation Game as a Utility for Secure Energy Management in a Vehicles-to-Grid Environment
+Neeraj Kumar;Sudip Misra;Naveen Chilamkurti;Jong-Hyouk Lee;Joel J. P. C. Rodrigues
+
+
+Towards Building Forensics Enabled Cloud Through Secure Logging-as-a-Service
+Shams Zawoad;Amit Kumar Dutta;Ragib Hasan
+
+
+Assessing the Effectiveness of Moving Target Defenses Using Security Models
+Jin B. Hong;Dong Seong Kim
+
+
+Data Lineage in Malicious Environments
+Michael Backes;Niklas Grimm;Aniket Kate
+
+
+Malware Detection in Cloud Computing Infrastructures
+Michael R. Watson;Noor-ul-hassan Shirazi;Angelos K. Marnerides;Andreas Mauthe;David Hutchison
+
+
+Hacking Is Not Random: A Case-Control Study of Webserver-Compromise Risk
+Marie Vasek;John Wadleigh;Tyler Moore
+
+
+Leveraging Strategic Detection Techniques for Smart Home Pricing Cyberattacks
+Yang Liu;Shiyan Hu;Tsung-Yi Ho
+
+
+An Empirical Study of HTTP-based Financial Botnets
+Aditya K. Sood;Sherali Zeadally;Richard J. Enbody
+
+
+Industrial Control System Network Intrusion Detection by Telemetry Analysis
+Stanislav Ponomarev;Travis Atkison
+
+
+Measuring the Influence of Perceived Cybercrime Risk on Online Service Avoidance
+Markus Riek;Rainer Bohme;Tyler Moore
+
+
+A Support Vector Machine-Based Framework for Detection of Covert Timing Channels
+Pradhumna Lal Shrestha;Michael Hempel;Fahimeh Rezaei;Hamid Sharif
+
+
+Achieving Flatness: Selecting the Honeywords from Existing User Passwords
+Imran Erguler
+
+
+FRoDO: Fraud Resilient Device for Off-Line Micro-Payments
+Vanesa Daza;Roberto Di Pietro;Flavio Lombardi;Matteo Signorini
+
+
+Enabling Fine-Grained Multi-Keyword Search Supporting Classified Sub-Dictionaries over Encrypted Cloud Data
+Hongwei Li;Yi Yang;Tom H. Luan;Xiaohui Liang;Liang Zhou;Xuemin Sherman Shen
+
+
+Group Key Agreement with Local Connectivity
+Shaoquan Jiang
+
+
+Inference Attack on Browsing History of Twitter Users Using Public Click Analytics and Twitter Metadata
+Jonghyuk Song;Sangho Lee;Jong Kim
+
+
+netCSI: A Generic Fault Diagnosis Algorithm for Large-Scale Failures in Computer Networks
+Srikar Tati;Scott Rager;Bong Jun Ko;Guohong Cao;Ananthram Swami;Thomas La Porta
+
+
+Privacy Protection for Wireless Medical Sensor Data
+Xun Yi;Athman Bouguettaya;Dimitrios Georgakopoulos;Andy Song;Jan Willemson
+
+
+Sequence Diagram Aided Privacy Policy Specification
+Hui Shen;Ram Krishnan;Rocky Slavin;Jianwei Niu
+
+
+Wireless Communications under Broadband Reactive Jamming Attacks
+Song Fang;Yao Liu;Peng Ning
+
+
+A Provenance-Aware Access Control Framework with Typed Provenance
+Lianshan Sun;Jaehong Park;Dang Nguyen;Ravi Sandhu
+
+
+An Access Control Model for Online Social Networks Using User-to-User Relationships
+Yuan Cheng;Jaehong Park;Ravi Sandhu
+
+
+Cloning Your Gadgets: Complete ROP Attack Immunity with Multi-Variant Execution
+Stijn Volckaert;Bart Coppens;Bjorn De Sutter
+
+
+Key Indistinguishability versus Strong Key Indistinguishability for Hierarchical Key Assignment Schemes
+Arcangelo Castiglione;Alfredo De Santis;Barbara Masucci
+
+
+Password Extraction via Reconstructed Wireless Mouse Trajectory
+Xian Pan;Zhen Ling;Aniket Pingley;Wei Yu;Nan Zhang;Kui Ren;Xinwen Fu
+
+
+Security Optimization of Dynamic Networks with Probabilistic Graph Modeling and Linear Programming
+Hussain M.J. Almohri;Layne T. Watson;Danfeng Yao;Xinming Ou
+
+
+VoteTrust: Leveraging Friend Invitation Graph to Defend against Social Network Sybils
+Zhi Yang;Jilong Xue;Xiaoyong Yang;Xiao Wang;Yafei Dai
+
+
+A Hardware-Software Approach for On-Line Soft Error Mitigation in Interrupt-Driven Applications
+Antonio Martínez-Álvarez;Felipe Restrepo-Calle;Sergio Cuenca-Asensi;Leonardo M. Reyneri;Almudena Lindoso;Luis Entrena
+
+
+A Large-Scale Active Measurement Study on the Effectiveness of Piece-Attack on BitTorrent Networks
+Ali Fattaholmanan;Hamid R. Rabiee
+
+
+Distributed Attack Graph Generation
+Kerem Kaynar;Fikret Sivrikaya
+
+
+Generic and Efficient Constructions of Attribute-Based Encryption with Verifiable Outsourced Decryption
+Xianping Mao;Junzuo Lai;Qixiang Mei;Kefei Chen;Jian Weng
+
+
+Identifying High-Cardinality Hosts from Network-Wide Traffic Measurements
+Yang Liu;Wenji Chen;Yong Guan
+
+
+Low-Rate DoS Attacks Detection Based on Network Multifractal
+Zhijun Wu;Liyuan Zhang;Meng Yue
+
+
+ProbeBuilder: Uncovering Opaque Kernel Data Structures for Automatic Probe Construction
+Chi-Wei Wang;Chia-Wei Wang;Shiuhpyng Shieh
+
+
+Safety Decidability for Pre-Authorization Usage Control with Finite Attribute Domains
+P.V. Rajkumar;Ravi Sandhu
+
+
+Secure Multiset Intersection Cardinality and its Application to Jaccard Coefficient
+Bharath K. Samanthula;Wei Jiang
+
+
+A Proximity Authentication System for Smartphones
+Lingjun Li;Xinxin Zhao;Guoliang Xue
+
+
+Deleting Secret Data with Public Verifiability
+Feng Hao;Dylan Clarke;Avelino Francisco Zorzo
+
+
+Detection of Unspecified Emergencies for Controlled Information Sharing
+Barbara Carminati;Elena Ferrari;Michele Guglielmi
+
+
+Optimization of Full versus Incremental Periodic Backup Policy
+Gregory Levitin;Liudong Xing;Qingqing Zhai;Yuanshun Dai
+
+
+Private and Secure Tag Access for Large-Scale RFID Systems
+Min-Te Sun;Kazuya Sakai;Wei-Shinn Ku;Ten H. Lai;Athanasios V. Vasilakos
+
+
+Reliability Evaluation of Network Systems with Dependent Propagated Failures Using Decision Diagrams
+Yuchang Mo;Liudong Xing;Farong Zhong;Zhao Zhang
+
+
+Trust-Based Service Management for Social Internet of Things Systems
+Ing-Ray Chen;Fenye Bao;Jia Guo
+
+
+
+
+2. IEEE Transactions on Software Engineering
+A Tool-Supported Methodology for Validation and Refinement of Early-Stage Domain Models
+Marco Autili;Antonia Bertolino;Guglielmo De Angelis;Davide Di Ruscio;Alessio Di Sandro
+
+
+Seer: A Lightweight Online Failure Prediction Approach
+Burcu Ozcelik;Cemal Yilmaz
+
+
+Supporting Scope Tracking and Visualization for Very Large-Scale Requirements Engineering-Utilizing FSC+, Decision Patterns, and Atomic Decision Visualizations
+Krzysztof Wnuk;Tony Gorschek;David Callele;Even-André Karlsson;Eskil Åhlin;Björn Regnell
+
+
+Supporting Self-Adaptation via Quantitative Verification and Sensitivity Analysis at Run Time
+Antonio Filieri;Giordano Tamburrelli;Carlo Ghezzi
+
+
+Automatic Source Code Summarization of Context for Java Methods
+Paul W. McBurney;Collin McMillan
+
+
+Crossover Designs in Software Engineering Experiments: Benefits and Perils
+Sira Vegas;Cecilia Apa;Natalia Juristo
+
+
+GoPrime: A Fully Decentralized Middleware for Utility-Aware Service Assembly
+Mauro Caporuscio;Vincenzo Grassi;Moreno Marzolla;Raffaela Mirandola
+
+
+Probabilistic Model Checking of Regenerative Concurrent Systems
+Marco Paolieri;András Horváth;Enrico Vicario
+
+
+SITAR: GUI Test Script Repair
+Zebao Gao;Zhenyu Chen;Yunxiao Zou;Atif M. Memon
+
+
+Using Reduced Execution Flow Graph to Identify Library Functions in Binary Code
+Jing Qiu;Xiaohong Su;Peijun Ma
+
+
+Connecting and Serving the Software Engineering Community
+Matthew B. Dwyer;Eric Bodden;Brian Fitzgerald;Miryung Kim;Sunghun Kim;Andrew J. Ko;Emilia Mendes;Raffaela Mirandola;Ana Moreira;Forrest Shull;Stephen Siegel;Tao Xie;Charles Zhang
+
+
+Detecting, Tracing, and Monitoring Architectural Tactics in Code
+Mehdi Mirakhorli;Jane Cleland-Huang
+
+
+Evaluating the Effects of Architectural Documentation: A Case Study of a Large Scale Open Source Project
+Rick Kazman;Dennis Goldenson;Ira Monarch;William Nichols;Giuseppe Valetto
+
+
+Impact of Introducing Domain-Specific Modelling in Software Maintenance: An Industrial Case Study
+Niklas Mellegård;Adry Ferwerda;Kenneth Lind;Rogardt Heldal;Michel R. V. Chaudron
+
+
+Metamorphic Testing for Software Quality Assessment: A Study of Search Engines
+Zhi Quan Zhou;Shaowen Xiang;Tsong Yueh Chen
+
+
+Verifying Synchronization for Atomicity Violation Fixing
+Qingkai Shi;Jeff Huang;Zhenyu Chen;Baowen Xu
+
+
+A Multi-Site Joint Replication of a Design Patterns Experiment Using Moderator Variables to Generalize across Contexts
+Jonathan L. Krein;Lutz Prechelt;Natalia Juristo;Aziz Nanthaamornphong;Jeffrey C. Carver;Sira Vegas;Charles D. Knutson;Kevin D. Seppi;Dennis L. Eggett
+
+
+An Approach to Checking Consistency between UML Class Model and Its Java Implementation
+Hector M. Chavez;Wuwei Shen;Robert B. France;Benjamin A. Mechling;Guangyuan Li
+
+
+A Probabilistic Analysis of the Efficiency of Automated Software Testing
+Marcel Böhme;Soumya Paul
+Black-Box String Test Case Generation through a Multi-Objective Optimization
+Ali Shahbazi;James Miller
+
+
+Mapping Bug Reports to Relevant Files: A Ranking Model, a Fine-Grained Benchmark, and Feature Evaluation
+Xin Ye;Razvan Bunescu;Chang Liu
+
+
+Bidirectional Symbolic Analysis for Effective Branch Testing
+Mauro Baluda;Giovanni Denaro;Mauro Pezzè
+
+
+Effect of Domain Knowledge on Elicitation Effectiveness: An Internally Replicated Controlled Experiment
+Alejandrina M. Aranda;Oscar Dieste;Natalia Juristo
+
+
+RELAI Testing: A Technique to Assess and Improve Software Reliability
+Domenico Cotroneo;Roberto Pietrantuono;Stefano Russo
+
+
+Targeted Scrum: Applying Mission Command to Agile Software Development
+David P. Harvie;Arvin Agah
+
+
+To Be Optimal or Not in Test-Case Prioritization
+Dan Hao;Lu Zhang;Lei Zang;Yanbo Wang;Xingxia Wu;Tao Xie
+
+
+A Game-Theoretic Foundation for the Maximum Software Resilience against Dense Errors
+Chung-Hao Huang;Doron A. Peled;Sven Schewe;Farn Wang
+
+
+Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters
+Guoxin Su;Yuan Feng;Taolue Chen;David S. Rosenblum
+
+
+Designing Autonomic Management Systems by Using Reactive Control Techniques
+Nicolas Berthier;Éric Rutten;Noël De Palma;Soguy Mak-Karé Gueye
+
+
+Dynamic Software Project Scheduling through a Proactive-Rescheduling Method
+Xiaoning Shen;Leandro L. Minku;Rami Bahsoon;Xin Yao
+
+
+Variability Analysis of Requirements: Considering Behavioral Differences and Reflecting Stakeholders’ Perspectives
+Nili Itzik;Iris Reinhartz-Berger;Yair Wand
+
+
+A Game-Theoretic Foundation for the Maximum Software Resilience against Dense Errors
+Chung-Hao Huang;Doron A. Peled;Sven Schewe;Farn Wang
+
+
+Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters
+Guoxin Su;Yuan Feng;Taolue Chen;David S. Rosenblum
+
+
+Designing Autonomic Management Systems by Using Reactive Control Techniques
+Nicolas Berthier;Éric Rutten;Noël De Palma;Soguy Mak-Karé Gueye
+
+
+Dynamic Software Project Scheduling through a Proactive-Rescheduling Method
+Xiaoning Shen;Leandro L. Minku;Rami Bahsoon;Xin Yao
+
+
+Variability Analysis of Requirements: Considering Behavioral Differences and Reflecting Stakeholders’ Perspectives
+Nili Itzik;Iris Reinhartz-Berger;Yair Wand
+
+
+A Survey on Software Fault Localization
+W. Eric Wong;Ruizhi Gao;Yihao Li;Rui Abreu;Franz Wotawa
+
+
+A Survey on Software Fault Localization
+W. Eric Wong;Ruizhi Gao;Yihao Li;Rui Abreu;Franz Wotawa
+
+
+Model Checking Software with First Order Logic Specifications Using AIG Solvers
+Mohammad A. Noureddine;Fadi A. Zaraket
+
+
+Parallel Performance Problems on Shared-Memory Multicore Systems: Taxonomy and Observation
+Roman Atachiants;Gavin Doherty;David Gregg
+
+
+The Role of Ethnographic Studies in Empirical Software Engineering
+Helen Sharp;Yvonne Dittrich;Cleidson R. B. de Souza
+
+
+A Survey on Metamorphic Testing
+Sergio Segura;Gordon Fraser;Ana B. Sanchez;Antonio Ruiz-Cortés
+
+
+Dynamic Testing for Deadlocks via Constraints
+Yan Cai;Qiong Lu
+
+
+Probabilistic Interface Automata
+Esteban Pavese;Víctor Braberman;Sebastian Uchitel
+
+
+Software Reliability Analysis Using Weakest Preconditions in Linear Assignment Programs
+Hang Luo;Xue Liu;Xi Chen;Ting Long;Ronghua Jiang
+
+
+The Role of Method Chains and Comments in Software Readability and Comprehension—An Experiment
+Jürgen Börstler;Barbara Paech
+
+
+A Lightweight System for Detecting and Tolerating Concurrency Bugs
+Mingxing Zhang;Yongwei Wu;Shan Lu;Shanxiang Qi;Jinglei Ren;Weimin Zheng
+
+
+A Multi-Objective Technique to Prioritize Test Cases
+Alessandro Marchetto;Md. Mahfuzul Islam;Waseem Asghar;Angelo Susi;Giuseppe Scanniello
+
+
+Coverage-Aware Test Database Reduction
+Javier Tuya;Claudio de la Riva;María José Suárez-Cabal;Raquel Blanco
+
+
+Exploring Mobile End User Development: Existing Use and Design Factors
+Abdallah Namoun;Athanasia Daskalopoulou;Nikolay Mehandjiev;Zhang Xun
+
+
+HYDRA: Massively Compositional Model for Cross-Project Defect Prediction
+Xin Xia;David Lo;Sinno Jialin Pan;Nachiappan Nagappan;Xinyu Wang
+
+
+Composite Constant Propagation and its Application to Android Program Analysis
+Damien Octeau;Daniel Luchaup;Somesh Jha;Patrick McDaniel
+
+
+Developer Micro Interaction Metrics for Software Defect Prediction
+Taek Lee;Jaechang Nam;Donggyun Han;Sunghun Kim;Hoh Peter In
+
+
+Enhanced Code Conversion Approach for the Integrated Cross-Platform Mobile Development (ICPMD)
+Wafaa S. El-Kassas;Bassem A. Abdullah;Ahmed H. Yousef;Ayman M. Wahba
+
+
+Light-Weight, Inter-Procedural and Callback-Aware Resource Leak Detection for Android Apps
+Tianyong Wu;Jierui Liu;Zhenbo Xu;Chaorong Guo;Yanli Zhang;Jun Yan;Jian Zhang
+
+
+Parallel Algorithms for Testing Finite State Machines:Generating UIO Sequences
+Robert M. Hierons;Uraz Cengiz Türker
+
+
+Comments on “Researcher Bias: The Use of Machine Learning in Software Defect Prediction”
+Chakkrit Tantithamthavorn;Shane McIntosh;Ahmed E. Hassan;Kenichi Matsumoto
+
+
+An Industrial Survey of Safety Evidence Change Impact Analysis Practice
+Jose Luis de la Vara;Markus Borg;Krzysztof Wnuk;Leon Moonen
+
+
+Engineering Adaptive Model-Driven User Interfaces
+Pierre A. Akiki;Arosha K. Bandara;Yijun Yu
+
+
+Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks
+Tse-Hsun Chen;Weiyi Shang;Zhen Ming Jiang;Ahmed E. Hassan;Mohamed Nasser;Parminder Flora
+
+
+Inner Source in Platform-Based Product Engineering
+Dirk Riehle;Maximilian Capraro;Detlef Kips;Lars Horn
+
+
+Test Case Prioritization Using Lexicographical Ordering
+Sepehr Eghbali;Ladan Tahvildari
+
+
+
+
+3. INFORMATION SYSTEMS JOURNAL
+
+
+https://onlinelibrary.wiley.com/action/doSearch?SeriesKey=13652575&content=articlesChapters&countTerms=true&sortBy=Earliest&target=default&AfterYear=2016&BeforeYear=2016
+Examining employee computer abuse intentions: insights from justice, deterrence and neutralization perspectives
+Robert Willison Merrill Warkentin Allen C. Johnston
+
+
+Diffusion of knowledge in social media networks: effects of reputation mechanisms and distribution of knowledge roles
+Taha Havakhor Amr A. Soror Rajiv Sabherwal
+
+
+Driving business transformation toward sustainability: exploring the impact of supporting IS on the performance contribution of eco‐innovations
+Andre Hanelt Sebastian Busse Lutz M. Kolbe
+
+
+Minimum sample size estimation in PLS‐SEM: The inverse square root and gamma‐exponential methods
+Ned Kock Pierre Hadaya
+
+
+Transition arrangements to a new editorial structure
+Robert M Davison
+
+
+Metaphors in managerial and employee sensemaking in an information systems project
+Riitta Hekkala Mari‐Klara Stein Matti Rossi
+
+
+Rethinking the concept of the IS organization
+Joe Peppard
+
+
+Digitally enabled disaster response: the emergence of social media as boundary objects in a flooding disaster
+Yenni Tim Shan L. Pan Peter Ractham Laddawan Kaewkitipong
+
+
+My choice, your problem? Mandating IT use in large organisational networks
+Andrea Carugati Walter Fernández Lapo Mola Cecilia Rossignoli
+
+
+Entering the field in qualitative field research: a rite of passage into a complex practice world
+Hameed Chughtai Michael D. Myers
+
+
+Reconceptualizing object construction: the dynamics of Building Information Modelling in construction design
+Reijo Miettinen Sami Paavola
+
+
+Information system artefact or information system application: that is the question
+Juhani Iivari
+
+
+Issues that support the creation of ICT workarounds: towards a theoretical understanding of feral information systems
+Anthony Spierings Don Kerr Luke Houghton
+
+
+Risks to Effective Knowledge Sharing in Agile Software Teams: A Model for Assessing and Mitigating Risks
+Shahla Ghobadi Lars Mathiassen
+
+
+Examining the use of status quo bias perspective in IS research: need for re‐conceptualizing and incorporating biases
+Kyootai Lee Kailash Joshi
+
+
+Starting open source collaborative innovation: the antecedents of network formation in community source
+Manlu Liu Clyde Eiríkur Hull Yu‐Ting Caisy Hung
+
+
+
+
+Characteristics of IT artifacts: a systems thinking‐based framework for delineating and theorizing IT artifacts
+Sabine Matook Susan A. Brown
+
+
+A reflection on information systems strategizing: the role of power and everyday practices
+Marco Marabelli Robert D. Galliers
+
+
+The roles of mood and conscientiousness in reporting of self‐committed errors on IT projects
+Hyung Koo Lee Mark Keil H. Jeff Smith Sumantra Sarkar
+
+
+Applying a critical approach to investigate barriers to digital inclusion and online social networking among young people with disabilities
+Lareen Newman Kathryn Browne‐Yung Parimala Raghavendra Denise Wood Emma Grace
+
+
+Designing business models for cloud platforms
+Andrea Giessmann Christine Legner
+
+
+Information systems absorptive capacity for environmentally driven IS‐enabled transformation
+Vanessa Cooper Alemayehu Molla
+
+
+How does business analytics contribute to business value?
+Peter B. Seddon Dora Constantinidis Toomas Tamm Harjot Dod
+
+
+Service encounter thinklets: how to empower service agents to put value co‐creation into practice
+Tobias Giesbrecht Gerhard Schwabe Birgit Schenk
+
+
+A typology of user liability to IT addiction
+Isaac Vaghefi Liette Lapointe Camille Boudreau‐Pinsonneault
+
+
+Understanding the influence of absorptive capacity and ambidexterity on the process of business model change – the case of on‐premise and cloud‐computing software
+Johann J. Kranz André Hanelt Lutz M. Kolbe
+
+
+An activity theoretic analysis of the mediating role of information systems in tackling climate change adaptation
+Helen Hasan Stephen Smith Patrick Finnegan
+
+
+Leveraging virtual business model innovation: a framework for designing business model development tools
+Philipp Ebel Ulrich Bretschneider Jan Marco Leimeister
+
+
+Affordances of social media in collective action: the case of Free Lunch for Children in China
+Yingqin Zheng Ai Yu
+
+
+Developing ecological sustainability: a green IS response model
+Jonas Hedman Stefan Henningsson
+
+
+
+
+
+
+Advances in Engineering Software
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/102/suppl/C
+A fast uncertainty analysis for material nonlinear problems based on reanalysis and semi-analytic strategy
+Guanxin Huang, Hu Wang, Lei Chen, Enying Li, Guangyao Li
+
+
+Improved adaptive mesh refinement for conformal hexahedral meshes
+Gérald Nicolas, Thierry Fouquet, Samuel Geniaut, Sam Cuvilliez
+
+
+GTApprox: Surrogate modeling for industrial design
+Mikhail Belyaev, Evgeny Burnaev, Ermek Kapushev, Maxim Panov, ... Dmitry Yarotsky
+
+
+An analytic meshless enrichment function for handling discontinuities in interactive surgical simulation
+Rifat Aras, Yuzhong Shen, Michel Audette
+
+
+Adaptive hexahedral mesh generation and regeneration using an improved grid-based method
+Lili Huang, Guoqun Zhao, Zhonglei Wang, Xiangwei Zhang
+
+
+New approach to assess and rank the impact of revolute joint wear on the kinematic accuracy in the low-velocity planar mechanism
+Xiongming Lai, Qingfang Lai, He Huang, Cheng Wang, ... Yong Zhang
+
+
+2-manifold surface meshing using dual contouring with tetrahedral decomposition
+Tanweer Rashid, Sharmin Sultana, Michel A. Audette
+
+
+Structural design optimization of roof slab of a pool type sodium cooled fast reactor
+V Prabhu Raja, M Ramu, P R Thyla, Sriramachandra Aithal, ... P Chellapandi
+
+
+Numerical modeling of 3-D inclusions and voids by a novel adaptive XFEM
+Zhen Wang, Tiantang Yu, Tinh Quoc Bui, Ngoc Anh Trinh, ... Duc Hong Doan
+
+
+Simulate the aerodynamic olfactory effects of gas-sensitive UAVs: A numerical model and its parallel implementation
+Bing Luo, Qing-Hao Meng, Jia-Ying Wang, Shu-Gen Ma
+
+
+An improved collaborative optimization for multidisciplinary problems with coupled design variables
+W. Li, Y.J. Jia, Y. Wen, L.X. Li
+
+
+Truss optimization with frequency constraints using enhanced differential evolution based on adaptive directional mutation and nearest neighbor comparison
+Hoang Anh Pham
+
+
+Systems information modelling: Enabling digital asset management
+Peter E.D. Love, Jingyang Zhou, Jane Matthews, Harbin Luo
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/101/suppl/C
+Volume preserving smoothing of triangular isotropic three-dimensional surface meshes
+D. Rypl, J. Nerad
+
+
+Parallel alternating iterative algorithms with and without overlapping on multicore architectures
+Héctor Migallón, Violeta Migallón, José Penadés
+
+
+Synchronous and asynchronous HEVC parallel encoder versions based on a GOP approach
+H. Migallón, J.L. Hernández-Losada, G. Cebrián-Márquez, P. Piñol, ... M.P. Malumbres
+
+
+DBEM crack propagation in friction stir welded aluminum joints
+R. Citarella, P. Carlone, R. Sepe, M. Lepore
+
+
+A sub-cell spectral-element simulator for 2D rigid-body-fluid interaction problems
+Li-Chieh Chen, Chien-Ta Lin, Mei-Jiau Huang
+
+
+Optimization of pump efficiencies with different pumps characteristics working in parallel mode
+M. Koor, A. Vassiljev, T. Koppel
+
+
+Comparison of different agglomeration multigrid schemes for compressible and incompressible flow simulations
+Georgios N. Lygidakis, Sotirios S. Sarakinos, Ioannis K. Nikolos
+
+
+The Mach stem phenomenon for shaped obstacles buried in soil
+Y.S. Karinski, V.R. Feldgun, E. Racah, D.Z. Yankelevsky
+
+
+Seismic design and performance of multi-tiered steel braced frames including the contribution from gravity columns under in-plane seismic demand
+Ali Imanpour, Karl Auger, Robert Tremblay
+
+
+Fine tuning of a fuzzy controller for vibration suppression of smart plates using genetic algorithms
+G. Tairidis, G. Foutsitzi, P. Koutsianitis, G.E. Stavroulakis
+
+
+Modelling and strength evaluation of masonry bridges using terrestrial photogrammetry and finite elements
+M.E. Stavroulaki, B. Riveiro, G.A. Drosopoulos, M. Solla, ... G.E. Stavroulakis
+
+
+Optimum topological design of negative permeability dielectric metamaterial using a new binary particle swarm algorithm
+N. Di Cesare, D. Chamoret, M. Domaszewski
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/100/suppl/C
+Mathematical formulation and demonstration of a dynamic system-level ship thermal management tool
+S. Yang, J.C. Ordonez, J.V.C. Vargas, J. Chalfant, C. Chryssostomidis
+
+
+A software framework for probabilistic sensitivity analysis for computationally expensive models
+N. Vu-Bac, T. Lahmer, X. Zhuang, T. Nguyen-Thoi, T. Rabczuk
+
+
+A new boundary meshfree method for potential problems
+Fang-Ling Sun, Yao-Ming Zhang, Der-Liang Young, Wen Chen
+
+
+A simulation approach of under-hood thermal management
+Guohua Wang, Qing Gao, Tianshi Zhang, Yan Wang
+
+
+State of the practice for mesh generation and mesh processing software
+W. Spencer Smith, D. Adam Lazzarato, Jacques Carette
+
+
+Effect of notch position on creep damage for brazed joint
+Yun Luo, Wenchun Jiang, Qian Zhang, Weiya Zhang, ... Muming Hao
+
+
+Modification of the Audze–Eglājs criterion to achieve a uniform distribution of sampling points
+Jan Eliáš, Miroslav Vořechovský
+
+
+Topology optimization with manufacturing constraints: A unified projection-based approach
+Sandro L. Vatanabe, Tiago N. Lippi, Cícero R. de Lima, Glaucio H. Paulino, Emílio C.N. Silva
+
+
+Optimization of Multi-branch Truss-Z based on evolution strategy
+Machi Zawidzki
+
+
+liteITD a MATLAB Graphical User Interface (GUI) program for topology design of continuum structures
+Mariano Victoria, Osvaldo M. Querin, Concepción Díaz, Pascual Martí
+
+
+μMech micromechanics library
+Ladislav Svoboda, Stanislav Šulc, Tomáš Janda, Jan Vorel, Jan Novák
+
+
+A survey of manufacturing oriented topology optimization methods
+Jikai Liu, Yongsheng Ma
+
+
+A database and workflow integration methodology for rapid evaluation and selection of Improved Oil Recovery (IOR) technologies for heavy oil fields
+Roozbeh Kalateh, Lynne Ogg, Matanat Charkazova, Dimitrios I. Gerogiorgis
+
+
+Advanced finite element modeling of excavation and advancement processes in mechanized tunneling
+Abdullah Alsahly, Janosch Stascheit, Günther Meschke
+
+
+Construction and facility management of large MEP projects using a multi-Scale building information model
+Zhen-Zhong Hu, Jian-Ping Zhang, Fang-Qiang Yu, Pei-Long Tian, Xue-Song Xiang
+
+
+3D accident reconstruction using low-cost imaging technique
+Muhammad Ridhwan Osman, Khairul Nizam Tahar
+
+
+A novel approach to analyze beam-like composite structures using mechanics of structure genome
+Xin Liu, Wenbin Yu
+
+
+Helicopter nonlinear aerodynamics modelling using VehicleSim
+S. Castillo-Rivera, M. Tomas-Rodriguez
+
+
+Trajectory optimization for lunar soft landing with a Hamiltonian-based adaptive mesh refinement strategy
+Lin Ma, Zhijiang Shao, Weifeng Chen, Zhengyu Song
+
+
+Designing and implementing a multi-core capable integrated urban drainage modelling Toolkit:Lessons from CityDrain3
+Gregor Burger, Peter M. Bach, Christian Urich, Günther Leonhardt, ... Wolfgang Rauch
+
+
+Towards adaptive topology optimization
+Alexandre Nana, Jean-Christophe Cuillière, Vincent Francois
+
+
+Mesh-independent equivalent domain integral method for J-integral evaluation
+G.P. Nikishkov, A.V. Vershinin, Y.G. Nikishkov
+
+
+SiGMA: A software framework for integrating advanced mathematical capabilities in serious game development
+Katherine Smith, John Shull, Anthony Dean, Yuzhong Shen, Jennifer Michaeli
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/99/suppl/C
+Equivalent linear elastic-viscous model of shape memory alloy for isolated structures
+Sharad Ghodke, R.S. Jangid
+
+
+Moving beyond CAD to an object-oriented approach for electrical control and instrumentation systems
+Peter E.D. Love, Jingyang Zhou, Jane Matthews, David Edwards
+
+
+Study on the mode of intelligent chemical industry based on cyber-physical system and its implementation
+Xu Ji, Ge He, Juanjuan Xu, Yangrui Guo
+
+
+Optimization of foam-filled double ellipse tubes under multiple loading cases
+Qiang Gao, Liangmo Wang, Yuanlong Wang, Fuxiang Guo, Zunzhi Zhang
+
+
+Robust topology optimization for structures under interval uncertainty
+Jinglai Wu, Jie Gao, Zhen Luo, Terry Brown
+
+
+Response analysis of longitudinal vibration of sucker rod string considering rod buckling
+Mingming Xing
+
+
+Numerical simulation of tsunamis generated by landslides on multiple GPUs
+M. de la Asunción, M.J. Castro, J.M. Mantas, S. Ortega
+
+
+Efficient GPU out-of-core visualization of large-scale CAD models with voxel representations
+Junjie Xue, Gang Zhao, Wenlei Xiao
+
+
+Finite element mapping for incompatible FE meshes of composite structures
+Natalie Mayer, Björn Van Den Broucke, Jens Prowe, Tamas Havar, Roland Hinterhölzl
+
+
+Estimating inherent deformation in thin-plate Al-alloy joint by means of inverse analysis with the help of cutting technique
+Wei Liang, Hidekazu Murakawa, Dean Deng
+
+
+A computational framework for regional seismic simulation of buildings with multiple fidelity models
+Zhen Xu, Xinzheng Lu, Kincho H. Law
+
+
+Automatic mesh generation for 3D smoothed finite element method (S-FEM) based on the weaken-weak formulation
+Y. Li, J.H. Yue, R.P. Niu, G.R. Liu
+
+
+Grey wolf optimizer for unmanned combat aerial vehicle path planning
+Sen Zhang, Yongquan Zhou, Zhiming Li, Wei Pan
+
+
+Adaptive classification under computational budget constraints using sequential data gathering
+Joachim van der Herten, Ivo Couckuyt, Dirk Deschrijver, Tom Dhaene
+
+
+Optimization of laser welding process parameters of stainless steel 316L using FEM, Kriging and NSGA-II
+Ping Jiang, Chaochao Wang, Qi Zhou, Xinyu Shao, ... Xiongbin Li
+
+
+An effective multi-objective discrete grey wolf optimizer for a real-world scheduling problem in welding production
+Chao Lu, Shengqiang Xiao, Xinyu Li, Liang Gao
+
+
+Automatic three-dimensional geometry and mesh generation of periodic representative volume elements for matrix-inclusion composites
+Konrad Schneider, Benjamin Klusemann, Swantje Bargmann
+
+
+Explicit stress integration with streamlined drift reduction
+W.T. Sołowski, S.W. Sloan
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/98/suppl/C
+Application of smoothed particle hydrodynamics to modeling mechanisms of biological tissue
+Andrey Palyanov, Sergey Khayrulin, Stephen D. Larson
+
+
+Cost optimum design of post-tensioned concrete bridges using a modified colliding bodies optimization algorithm
+A. Kaveh, M. Maniat, M. Arab Naeini
+
+
+Pattern-based integration of system optimization in mechatronic system design
+Wenqiang Yuan, Yusheng Liu, Jianjun Zhao, Hongwei Wang
+
+
+New advances in obtaining three-dimensional models from conical perspectives
+J. Conesa, F. Mula
+
+
+A new constraint-based virtual environment for haptic assembly training
+Wei Jiang, Jin-jin Zheng, Hong-jun Zhou, Bing-kai Zhang
+
+
+Computer-aided modeling of braided structures overbraiding non-cylindrical prisms based on surface transformation
+Fanggang Ning, Weidong Yu
+
+
+Investigating the impact of developer productivity, task interdependence type and communication overhead in a multi-objective optimization approach for software project planning
+Constantinos Stylianou, Andreas S. Andreou
+
+
+A submarine arrangement design program based on the expert system and the multistage optimization
+Ki-Su Kim, Myung-Il Roh
+
+
+Optimization design of a disc brake system with hybrid uncertainties
+Hui Lü, Dejie Yu
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/97/suppl/C
+Optimization of static and dynamic travel range of electrostatically driven microbeams using particle swarm optimization
+R.R. Trivedi, D.N. Pawaskar, R.P. Shimpi
+
+
+Approximation of large data from the finite element analysis allowing fast post-processing
+Štěpán Beneš, Jaroslav Kruis
+
+
+A feasibility study of BBP for predicting shear capacity of FRP reinforced concrete beams without stirrups
+Emadaldin Mohammadi Golafshani, Ashraf Ashour
+
+
+3D macro-element modelling approach for seismic assessment of historical masonry churches
+B. Pantò, F. Cannizzaro, S. Caddemi, I. Caliò
+
+
+Automatic hierarchical mid-surface abstraction of thin-walled model based on rib decomposition
+Huawei Zhu, Yanli Shao, Yusheng Liu, Jianjun Zhao
+
+
+Framework and algorithms for illustrative visualizations of time-varying flows on unstructured meshes
+Alexander S. Rattner, Donna Post Guillen, Alark Joshi, Srinivas Garimella
+
+
+A self-tuning system for dam behavior modeling based on evolving artificial neural networks
+B. Stojanovic, M. Milivojevic, N. Milivojevic, D. Antonijevic
+
+
+An alternative adaptive differential evolutionary Algorithm assisted by Expected Improvement criterion and cut-HDMR expansion and its application in time-based sheet forming design
+Enying Li, Hu Wang
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/96/suppl/C
+Development and validation of a software tool for complex aircraft powertrains
+T. Donateo, A. Ficarella, L. Spedicato
+
+
+A numerical and experimental study of woven fabric material under ballistic impacts
+Hongbing Fang, Matthew Gutowski, Matthew DiSogra, Qian Wang
+
+
+Flow simulation and visualization in a three-dimensional shipping information system
+Shanghong Zhang, Tianxiang Zhang, Yu Wu, Yujun Yi
+
+
+A novel approach for automatic reconstruction of boundary condition in structure analysis
+Zhaohui Xia, Qifu Wang, Qinghua Liu, Yingjun Wang, ... Gang Chen
+
+
+Automated geometrical evaluation of a plaza (town square)
+M. Zawidzki
+
+
+Dynamic axial crashing of tailor-welded blanks (TWBs) thin-walled structures with top-hat shaped section
+Fengxiang Xu, Chao Wang
+
+
+A new regularized boundary integral equation for three-dimensional potential gradient field
+Wenzhen Qu, Yaoming Zhang, Chein-Shan Liu
+
+
+Extreme learning approach with wavelet transform function for forecasting wind turbine wake effect to improve wind farm efficiency
+Igor Mladenović, Dušan Marković, Miloš Milovančević, Miroljub Nikolić
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/95/suppl/C
+Transonic flutter analysis using a fully coupled density based solver for inviscid flow
+H.I. Kassem, X. Liu, J.R. Banerjee
+
+
+Multi-dimensional visualization of large-scale marine hydrological environmental data
+Tianyun Su, Zhu Cao, Zhihan Lv, Chang Liu, Xinfang Li
+
+
+Boolean and smoothing of discrete polygonal surfaces
+Adam Updegrove, Nathan M. Wilson, Shawn C. Shadden
+
+
+ARLS: A MapReduce-based output analysis tool for large-scale simulations
+Kangsun Lee, Kwanghoon Jung, Joonho Park, Dongseop Kwon
+
+
+Optimization of a GDI engine operation in the absence of knocking through numerical 1D and 3D modeling
+S. Boccardi, F. Catapano, M. Costa, P. Sementa, ... B.M. Vaglieco
+
+
+The Whale Optimization Algorithm
+Seyedali Mirjalili, Andrew Lewis
+
+
+Artificial neural networks in the calibration of nonlinear mechanical models
+Tomáš Mareš, Eliška Janouchová, Anna Kučerová
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/94/suppl/C
+
+
+An object-oriented symbolic approach to the automated derivation of finite element contributions
+R. Saad, D. Eyheramendy, L. Zhang
+
+
+Study on the reconstruction method of stereo vision in glass flume
+Hai Du, Mu-guo Li, Juan Meng
+
+
+Generation of hierarchical multi-resolution medial axis for CAD models
+Housheng Zhu, Yusheng Liu, Jianjun Zhao
+
+
+A unified trajectory optimization framework for lunar ascent
+Lin Ma, Weifeng Chen, Zhengyu Song, Zhijiang Shao
+
+
+Fundamental concepts in the Cyclus nuclear fuel cycle simulation framework
+Kathryn D. Huff, Matthew J. Gidden, Robert W. Carlsen, Robert R. Flanagan, ... Paul P.H. Wilson
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/93/suppl/C
+WebVRGIS based traffic analysis and visualization system
+Xiaoming Li, Zhihan Lv, Weixi Wang, Baoyun Zhang, ... Shengzhong Feng
+
+
+Efficient methodologies for reliability-based design optimization of composite panels
+J. Díaz, M. Cid Montoya, S. Hernández
+
+
+Characterizing thermo-mechanical behavior of superalloy using the eigenfunction virtual fields method
+Wenfeng Hao, Guangping Guo, Yue Zhang, Xinwen Chen
+
+
+Design pattern modeling and extraction for CAD models
+Jing Bai, Haonan Luo, Feiwei Qin
+
+
+Comments on “A robust color image watermarking with singular value decomposition method”
+Khaled Loukhaoukha, Ahmed Refaey, Khalil Zebbiche
+
+
+An improved hybrid optimization algorithm for vibration based-damage detection
+Idilson António Nhamage, Rafael Holdorf Lopez, Leandro Fleck Fadel Miguel
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/92/suppl/C
+Design optimization of real world steel space frames using artificial bee colony algorithm with Levy flight distribution
+İ. Aydoğdu, A. Akın, M.P. Saka
+
+
+Performance evaluation of a petrol station queuing system: A simulation-based design of experiments study
+Masoud Rahiminezhad Galankashi, Ehsan Fallahiarezoudar, Anoosh Moazzami, Noordin Mohd Yusof, Syed Ahmad Helmi
+
+
+SMT: An interface for localized storm surge modeling
+Tristan Dyer, John Baugh
+
+
+Precise trajectory optimization for articulated wheeled vehicles in cluttered environments
+Bai Li, Zhijiang Shao
+
+
+An effective reliability-based improved constrained differential evolution for reliability-based design optimization of truss structures
+V. Ho-Huu, T. Nguyen-Thoi, L. Le-Anh, T. Nguyen-Trang
+
+
+Simulation of biaxial wheel test and fatigue life estimation considering the influence of tire and wheel camber
+Xiaofei Wan, Yingchun Shan, Xiandong Liu, Haixia Wang, Jiegong Wang
+
+
+A novel nature-inspired algorithm for optimization: Virus colony search
+Mu Dong Li, Hui Zhao, Xing Wei Weng, Tong Han
+
+
+
+
+https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/91/suppl/C
+Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line
+Ali Vatankhah Barenji, Reza Vatankhah Barenji, Majid Hashemipour
+
+
+Space subdivision to speed-up convex hull construction in E3
+Vaclav Skala, Zuzana Majdisova, Michal Smolik
+
+
+Optimal industrial reactor design: development of a multiobjective optimization method based on a posteriori performance parameters calculated from CFD flow solutions
+Jonas Laerte Ansoni, Paulo Seleghim
+
+
+Mesh color sharpening
+Zinat Afrose, Yuzhong Shen
+
+
+Lattice Boltzmann simulation of the movement of droplets on stripe-patterned surfaces having different wettability
+Changwoo Lee, Sungnam Lyu, Jae Wan Park, Woonbong Hwang
+
+
+Feature recognition and volume generation of uncut regions for electrical discharge machining
+Weizhong Geng, Zhengming Chen, Kunjin He, Yunyan Wu
+
+
+A research on fatigue life of front axle beam for heavy-duty truck
+Min Zhang, Xiangfei Ji, Lijun Li
+
+
+Nonlinear elasto–plastic performance prediction of materials stabilized with bitumen emulsion in rural road pavements
+Ignacio Pérez, Luis Medina, Miguel Angel del Val
+
+
+Implementation of density-based implicit LU-SGS solver in the framework of OpenFOAM
+Chun Shen, Xin-lin Xia, Yong-zhen Wang, Feng Yu, Zhen-wei Jiao
+
+
+
+
+4. BUSINESS AND INFORMATION SYSTEMS ENGINEERING
+
+
+https://link.springer.com/journal/12599/volumes-and-issues/58-6
+Open Research in Business and Information Systems Engineering
+Wil van der AalstMartin BichlerArmin Heinzl
+
+
+Decision Support for IT Investment Projects
+Marcel Philipp MüllerSebastian StöcklBernd Heinrich
+
+
+Evaluation Methods in Process-Aware Information Systems Research with a Perspective on Human Orientation
+Simone KriglsteinMaria LeitnerStefanie Rinderle-Ma
+
+
+On the Ex Ante Valuation of IT Service Investments
+Hans Ulrich BuhlBjörn Steven HäckelJosef Schosser
+
+
+Digital Nudging
+Markus WeinmannChristoph SchneiderJan vom Brocke
+
+
+https://link.springer.com/journal/12599/volumes-and-issues/58-5
+Linked Data in Business
+Witold AbramowiczSören AuerTom Heath
+
+
+Erratum to: Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+
+Provalets: Component-Based Mobile Agents as Microservices for Rule-Based Data Access, Processing and Analytics
+Adrian Paschke
+
+
+Enriching Linked Data with Semantics from Domain-Specific Diagrammatic Models
+Robert A. BuchmannDimitris Karagiannis
+
+
+Supporting the Refinement of Clinical Process Models to Computer-Interpretable Guideline Models
+Begoña Martínez-SalvadorMar Marcos
+
+
+Advanced User Assistance Systems
+Alexander MaedcheStefan MoranaJulian Krumeich
+
+
+Interview with Frank van Harmelen on “Linked Data and Business Information Systems”
+Sören Auer
+
+
+https://link.springer.com/journal/12599/volumes-and-issues/58-4
+Disciplinary Pluralism, Flagship Conferences, and Journal Submissions
+Armin HeinzlMartin BichlerWil van der Aalst
+
+
+A Majority Vote Based Classifier Ensemble for Web Service Classification
+Usman QamarRozina NizaFarhan Hassan Khan
+
+
+Prescriptive Control of Business Processes
+Julian KrumeichDirk WerthPeter Loos
+
+
+Crowd Work
+David DurwardIvo BlohmJan Marco Leimeister
+
+
+Interview with Michael Nilles on “What Makes Leaders Successful in the Age of the Digital Transformation?”
+Alexander Maedche
+
+
+Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+
+
+
+https://link.springer.com/journal/12599/volumes-and-issues/58-3
+The Networked Society
+Jan vom BrockeJörg BeckerMarco de Marco
+
+
+Understanding Socio-Technical Impacts Arising from Software-as-a-Service Usage in Companies
+Andreas JedeFrank Teuteberg
+
+
+Platform Provider by Accident
+Ted Saarikko
+
+
+IT Consultants in Acquisition IT Integration
+Stefan HenningssonChristian Øhrgaard
+
+
+The Role of Gender in Business Process Management Competence Supply
+Elena GorbachevaArmin SteinOliver Müller
+
+
+Location-Based Services
+Stephanie RyschkaMatthias MurawskiMarkus Bick
+
+
+Interview with Martin Petry on “Digital Innovation for the Networked Society”
+Jan vom Brocke
+
+
+
+
+https://link.springer.com/journal/12599/volumes-and-issues/58-1
+Business Process Management
+Wil M. P. van der AalstMarcello La RosaFlávia Maria Santoro
+
+
+Criteria and Heuristics for Business Process Model Decomposition
+Fredrik MilaniMarlon DumasSilva Kasela
+
+
+Mixed-Paradigm Process Modeling with Intertwined State Spaces
+Johannes De SmedtJochen De WeerdtGeert Poels
+
+
+The Impact of Process Visibility on Process Performance
+Martin BernerJino AugustineAlexander Maedche
+
+
+A Critical Evaluation and Framework of Business Process Improvement Methods
+Rob J. B. VanwerschKhurram ShahzadHajo A. Reijers
+
+
+The State of the Art of Business Process Management Research as Published in the BPM Conference
+Jan ReckerJan Mendling
+
+
+The Use of Process Mining in Business Process Simulation Model Construction
+Niels MartinBenoît DepaireAn Caris
+
+
+Interview with Michael Rosemann on “The Role of Business Process Management in Modern Organizations”
+Marcello La Rosa
+
+
+Sharing Economy
+Thomas PuschmannRainer Alt
+
+
+Erratum to: Mixed-Paradigm Process Modeling with Intertwined State Spaces
+Johannes De SmedtJochen De WeerdtGeert Poels
+
+
+https://link.springer.com/journal/12599/volumes-and-issues/58-2
+BISE and the Engineering Sciences
+Martin BichlerArmin HeinzlWil van der Aalst
+
+
+Making Digital Freemium Business Models a Success: Predicting Customers’ Lifetime Value via Initial Purchase Information
+Sebastian VoigtOliver Hinz
+
+
+Data Analysis of Delays in Airline Networks
+Lucian IonescuClaus GwiggnerNatalia Kliewer
+
+
+Design Principles for High-Performance Blended Learning Services Delivery
+Philipp BitzerMatthias SöllnerJan Marco Leimeister
+
+
+Self-Service Business Intelligence
+Paul AlparMichael Schulz
