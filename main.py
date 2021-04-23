@@ -1,29 +1,45 @@
-# from collections import Counter
 import itertools
 
-def get_titles(filename):
+def separate_authors_from_titles(articles):
     titles = []
+
+    for article in articles:
+        tokens = article.split("\n")
+        title = tokens[0]
+        titles.append(title)
+
+    
+    return titles
+
+def get_titles(filename):
+    articles = []
     with open(filename, encoding="utf8") as file:
-        title = ""
+        article = ""
         for line in file:
             if line.strip():
-                title += line
-            elif title:
-                titles.append(title)
-                title = ""
+                article += line
+            elif article:
+                articles.append(article)
+                article = ""
             else:
                 pass
-        if title:
-            titles.append(title)
+        if article:
+            articles.append(article)
 
+    titles = separate_authors_from_titles(articles)
     return titles
 
-def remove_document_name(titles):
-    titles.pop(0)
-    return titles
+def normalize_to_lowercase(titles):
+    cleaned_titles = []
+    for title in titles:
+        lower_case_title = title.lower()
+        cleaned_titles.append(lower_case_title)
+    return cleaned_titles
 
 def clean_titles(titles):
-    titles = remove_document_name(titles)
+    titles = normalize_to_lowercase(titles)
+    
+    # print(titles)
     return titles
 
 def list_words_and_sources(titles):
@@ -57,17 +73,6 @@ def reconstruct_titles_as_list_of_useful_words(high_frequency_words_and_sources)
                 titles[title_index].append(word)
 
     return titles
-
-# def find_same_items_in_lists(*args):
-#     if not args:
-#         return []
-#     elif len(args) == 1:
-#         return args[0]
-#     else:
-#         repeated_items_set = set(args[0])
-#         for list_index in range(1, len(args)):
-#             repeated_items_set = repeated_items_set & set(args[list_index])
-#         return list(repeated_items_set)
 
 
 def generate_combinations_of_words(words_and_sources, minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title):
@@ -112,24 +117,13 @@ def filter_combinations_of_words_with_enough_articles_to_form_a_cohort(combinati
     # print(valid_cohorts)
     return valid_cohorts
 
-def find_articles_that_have_set_of_words_in_common(words_and_sources, minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title, minimum_number_of_articles_that_must_be_in_a_cohort):
+def find_valid_cohorts(words_and_sources, minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title, minimum_number_of_articles_that_must_be_in_a_cohort):
     combinations_of_words = generate_combinations_of_words(words_and_sources, minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title)
     combinations_of_words_with_list_of_article_titles_that_share_them = find_titles_that_share_combinations_of_words(words_and_sources, combinations_of_words)
     
     valid_cohorts = filter_combinations_of_words_with_enough_articles_to_form_a_cohort(combinations_of_words_with_list_of_article_titles_that_share_them, minimum_number_of_articles_that_must_be_in_a_cohort)
 
-    # print(valid_cohorts)
-    # return valid_cohorts
-
-
-
-
-    # minimum_number_of_articles_that_must_be_in_a_cohort
-    
-    # for combination_of_words in combinations_of_words:
-    #     articles_containing_this_combination_of_words = find_same_items_in_lists()
-    # pass
-
+    return valid_cohorts
 
 def main():
     titles = get_titles("2016 Software Engineering Papers.txt")
@@ -142,14 +136,9 @@ def main():
 
     minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title = 3
     minimum_number_of_articles_that_must_be_in_a_cohort = 3
-    sets_of_words_and_articles_that_have_them_in_common = find_articles_that_have_set_of_words_in_common(high_frequency_words_and_sources, minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title, minimum_number_of_articles_that_must_be_in_a_cohort)
+    valid_cohorts = find_valid_cohorts(high_frequency_words_and_sources, minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title, minimum_number_of_articles_that_must_be_in_a_cohort)
     
-    # title_of_useful_words_dict = reconstruct_titles_as_list_of_useful_words(high_frequency_words_and_sources)
-    # print(len(high_frequency_words_and_sources))
-
-    # words_in_title_count = count_words_in_titles(titles)
-
-    # for ti
+    print(valid_cohorts)
 
 if __name__ == "__main__":
     main()

@@ -1,8 +1,4 @@
-LIST OF PUBLICATIONS 
-1. IEEE Transactions on Dependable and Secure Computing
-
-
-V2V QoS Guaranteed Channel Access in IEEE 802.11p VANETs
+﻿V2V QoS Guaranteed Channel Access in IEEE 802.11p VANETs
 Che-Yu Chang;Hsu-Chun Yen;Der-Jiunn Deng
 
 
@@ -216,7 +212,6 @@ Ing-Ray Chen;Fenye Bao;Jia Guo
 
 
 
-2. IEEE Transactions on Software Engineering
 A Tool-Supported Methodology for Validation and Refinement of Early-Stage Domain Models
 Marco Autili;Antonia Bertolino;Guglielmo De Angelis;Davide Di Ruscio;Alessio Di Sandro
 
@@ -465,10 +460,6 @@ Sepehr Eghbali;Ladan Tahvildari
 
 
 
-3. INFORMATION SYSTEMS JOURNAL
-
-
-https://onlinelibrary.wiley.com/action/doSearch?SeriesKey=13652575&content=articlesChapters&countTerms=true&sortBy=Earliest&target=default&AfterYear=2016&BeforeYear=2016
 Examining employee computer abuse intentions: insights from justice, deterrence and neutralization perspectives
 Robert Willison Merrill Warkentin Allen C. Johnston
 
@@ -595,10 +586,6 @@ Jonas Hedman Stefan Henningsson
 
 
 
-Advances in Engineering Software
-
-
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/102/suppl/C
 A fast uncertainty analysis for material nonlinear problems based on reanalysis and semi-analytic strategy
 Guanxin Huang, Hu Wang, Lei Chen, Enying Li, Guangyao Li
 
@@ -651,7 +638,6 @@ Systems information modelling: Enabling digital asset management
 Peter E.D. Love, Jingyang Zhou, Jane Matthews, Harbin Luo
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/101/suppl/C
 Volume preserving smoothing of triangular isotropic three-dimensional surface meshes
 D. Rypl, J. Nerad
 
@@ -700,7 +686,6 @@ Optimum topological design of negative permeability dielectric metamaterial usin
 N. Di Cesare, D. Chamoret, M. Domaszewski
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/100/suppl/C
 Mathematical formulation and demonstration of a dynamic system-level ship thermal management tool
 S. Yang, J.C. Ordonez, J.V.C. Vargas, J. Chalfant, C. Chryssostomidis
 
@@ -795,7 +780,6 @@ Katherine Smith, John Shull, Anthony Dean, Yuzhong Shen, Jennifer Michaeli
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/99/suppl/C
 Equivalent linear elastic-viscous model of shape memory alloy for isolated structures
 Sharad Ghodke, R.S. Jangid
 
@@ -870,7 +854,6 @@ W.T. Sołowski, S.W. Sloan
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/98/suppl/C
 Application of smoothed particle hydrodynamics to modeling mechanisms of biological tissue
 Andrey Palyanov, Sergey Khayrulin, Stephen D. Larson
 
@@ -909,7 +892,6 @@ Hui Lü, Dejie Yu
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/97/suppl/C
 Optimization of static and dynamic travel range of electrostatically driven microbeams using particle swarm optimization
 R.R. Trivedi, D.N. Pawaskar, R.P. Shimpi
 
@@ -944,7 +926,6 @@ Enying Li, Hu Wang
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/96/suppl/C
 Development and validation of a software tool for complex aircraft powertrains
 T. Donateo, A. Ficarella, L. Spedicato
 
@@ -979,7 +960,6 @@ Igor Mladenović, Dušan Marković, Miloš Milovančević, Miroljub Nikolić
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/95/suppl/C
 Transonic flutter analysis using a fully coupled density based solver for inviscid flow
 H.I. Kassem, X. Liu, J.R. Banerjee
 
@@ -1010,9 +990,6 @@ Tomáš Mareš, Eliška Janouchová, Anna Kučerová
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/94/suppl/C
-
-
 An object-oriented symbolic approach to the automated derivation of finite element contributions
 R. Saad, D. Eyheramendy, L. Zhang
 
@@ -1035,7 +1012,6 @@ Kathryn D. Huff, Matthew J. Gidden, Robert W. Carlsen, Robert R. Flanagan, ... P
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/93/suppl/C
 WebVRGIS based traffic analysis and visualization system
 Xiaoming Li, Zhihan Lv, Weixi Wang, Baoyun Zhang, ... Shengzhong Feng
 
@@ -1062,7 +1038,6 @@ Idilson António Nhamage, Rafael Holdorf Lopez, Leandro Fleck Fadel Miguel
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/92/suppl/C
 Design optimization of real world steel space frames using artificial bee colony algorithm with Levy flight distribution
 İ. Aydoğdu, A. Akın, M.P. Saka
 
@@ -1093,7 +1068,6 @@ Mu Dong Li, Hui Zhao, Xing Wei Weng, Tong Han
 
 
 
-https://www.sciencedirect.com/journal/advances-in-engineering-software/vol/91/suppl/C
 Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line
 Ali Vatankhah Barenji, Reza Vatankhah Barenji, Majid Hashemipour
 
@@ -1132,10 +1106,6 @@ Chun Shen, Xin-lin Xia, Yong-zhen Wang, Feng Yu, Zhen-wei Jiao
 
 
 
-4. BUSINESS AND INFORMATION SYSTEMS ENGINEERING
-
-
-https://link.springer.com/journal/12599/volumes-and-issues/58-6
 Open Research in Business and Information Systems Engineering
 Wil van der AalstMartin BichlerArmin Heinzl
 
@@ -1156,7 +1126,6 @@ Digital Nudging
 Markus WeinmannChristoph SchneiderJan vom Brocke
 
 
-https://link.springer.com/journal/12599/volumes-and-issues/58-5
 Linked Data in Business
 Witold AbramowiczSören AuerTom Heath
 
@@ -1185,7 +1154,6 @@ Interview with Frank van Harmelen on “Linked Data and Business Information Sys
 Sören Auer
 
 
-https://link.springer.com/journal/12599/volumes-and-issues/58-4
 Disciplinary Pluralism, Flagship Conferences, and Journal Submissions
 Armin HeinzlMartin BichlerWil van der Aalst
 
@@ -1212,7 +1180,6 @@ Martin BichlerUlrich FrankBernhard Thalheim
 
 
 
-https://link.springer.com/journal/12599/volumes-and-issues/58-3
 The Networked Society
 Jan vom BrockeJörg BeckerMarco de Marco
 
@@ -1243,7 +1210,6 @@ Jan vom Brocke
 
 
 
-https://link.springer.com/journal/12599/volumes-and-issues/58-1
 Business Process Management
 Wil M. P. van der AalstMarcello La RosaFlávia Maria Santoro
 
@@ -1284,7 +1250,6 @@ Erratum to: Mixed-Paradigm Process Modeling with Intertwined State Spaces
 Johannes De SmedtJochen De WeerdtGeert Poels
 
 
-https://link.springer.com/journal/12599/volumes-and-issues/58-2
 BISE and the Engineering Sciences
 Martin BichlerArmin HeinzlWil van der Aalst
 
