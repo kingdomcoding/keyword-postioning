@@ -17,7 +17,7 @@ Wil M. P. van der AalstMarcello La RosaFlávia Maria Santoro
 ************************************************************
 
 ************************************************************
-Cohort Words: design, optimization, system
+Cohort Words: design, system, optimization
 
 Cohort Articles:
 A submarine arrangement design program based on the expert system and the multistage optimization
@@ -32,7 +32,7 @@ Wenqiang Yuan, Yusheng Liu, Jianjun Zhao, Hongwei Wang
 ************************************************************
 
 ************************************************************
-Cohort Words: model, checking, probabilistic
+Cohort Words: checking, model, probabilistic
 
 Cohort Articles:
 Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters
@@ -47,7 +47,7 @@ Guoxin Su;Yuan Feng;Taolue Chen;David S. Rosenblum
 ************************************************************
 
 ************************************************************
-Cohort Words: model, business, process
+Cohort Words: model, process, business
 
 Cohort Articles:
 Understanding the influence of absorptive capacity and ambidexterity on the process of business model change – the case of on‐premise and cloud‐computing software
@@ -62,7 +62,7 @@ Fredrik MilaniMarlon DumasSilva Kasela
 ************************************************************
 
 ************************************************************
-Cohort Words: engineering, information, systems, business
+Cohort Words: systems, engineering, information, business
 
 Cohort Articles:
 Erratum to: Theories in Business and Information Systems Engineering

@@ -193,6 +193,12 @@ def write_cohorts_to_file(cohorts_with_article_names):
             file.write("************************************************************\n\n")
 
 
+def write_list_of_articles_to_file(list_of_articles):
+    with open("Articles.txt", "w", encoding="utf8") as file:
+        for article in list_of_articles:
+            file.write(f"{article}\n\n")
+
+
 def main():
     articles = get_articles("2016 Software Engineering Papers.txt")
 
@@ -213,7 +219,7 @@ def main():
     list_of_cohort_articles = get_list_of_cohort_articles(valid_cohorts, articles)
     
     write_cohorts_to_file(cohorts_with_article_names)
-    # write_list_of_files_in_cohorts()
+    write_list_of_articles_to_file(list_of_cohort_articles)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,68 @@
+The Role of Gender in Business Process Management Competence Supply
+Elena GorbachevaArmin SteinOliver Müller
+
+
+Business Process Management
+Wil M. P. van der AalstMarcello La RosaFlávia Maria Santoro
+
+
+Criteria and Heuristics for Business Process Model Decomposition
+Fredrik MilaniMarlon DumasSilva Kasela
+
+
+The State of the Art of Business Process Management Research as Published in the BPM Conference
+Jan ReckerJan Mendling
+
+
+Understanding the influence of absorptive capacity and ambidexterity on the process of business model change – the case of on‐premise and cloud‐computing software
+Johann J. Kranz André Hanelt Lutz M. Kolbe
+
+
+Interview with Michael Rosemann on “The Role of Business Process Management in Modern Organizations”
+Marcello La Rosa
+
+
+The Use of Process Mining in Business Process Simulation Model Construction
+Niels MartinBenoît DepaireAn Caris
+
+
+Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters
+Guoxin Su;Yuan Feng;Taolue Chen;David S. Rosenblum
+
+
+Open Research in Business and Information Systems Engineering
+Wil van der AalstMartin BichlerArmin Heinzl
+
+
+Erratum to: Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+
+Pattern-based integration of system optimization in mechatronic system design
+Wenqiang Yuan, Yusheng Liu, Jianjun Zhao, Hongwei Wang
+
+
+Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters
+Guoxin Su;Yuan Feng;Taolue Chen;David S. Rosenblum
+
+
+Interview with Frank van Harmelen on “Linked Data and Business Information Systems”
+Sören Auer
+
+
+A submarine arrangement design program based on the expert system and the multistage optimization
+Ki-Su Kim, Myung-Il Roh
+
+
+Optimization design of a disc brake system with hybrid uncertainties
+Hui Lü, Dejie Yu
+
+
+Probabilistic Model Checking of Regenerative Concurrent Systems
+Marco Paolieri;András Horváth;Enrico Vicario
+
+
+Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+
