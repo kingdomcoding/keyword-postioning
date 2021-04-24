@@ -1,4 +1,5 @@
 import itertools
+import re
 
 def separate_authors_from_titles(articles):
     titles = []
@@ -36,10 +37,28 @@ def normalize_to_lowercase(titles):
         cleaned_titles.append(lower_case_title)
     return cleaned_titles
 
+def remove_symbols(titles):
+    cleaned_titles = []
+    for title in titles:
+        cleaned_title = re.sub(r'[^\w|^\s|-]', '', title)
+        cleaned_titles.append(cleaned_title)
+    return cleaned_titles
+
+def remove_stop_words(titles):
+    cleaned_titles = []
+    with open("Search Engine Stop Words.txt", encoding="utf8") as file:
+        stop_words = file.read().splitlines()
+        for title in titles:
+            cleaned_title = " ".join((set(title.split()) - set(stop_words)))
+            cleaned_titles.append(cleaned_title)
+
+            # print(f'{title}\n{cleaned_title}\n\n')
+    return cleaned_titles    
+
 def clean_titles(titles):
     titles = normalize_to_lowercase(titles)
-    
-    # print(titles)
+    titles = remove_symbols(titles)
+    titles = remove_stop_words(titles)
     return titles
 
 def list_words_and_sources(titles):
@@ -86,6 +105,8 @@ def generate_combinations_of_words(words_and_sources, minimum_number_of_words_ar
 
 def find_titles_that_share_combination_of_words(words_and_sources):
     list_of_titles = [title for title in words_and_sources.values()]
+    # print(words_and_sources)
+    # print(list_of_titles)
 
     repeated_items_set = set(list_of_titles[0])
 
@@ -100,13 +121,12 @@ def find_titles_that_share_combinations_of_words(words_and_sources, combinations
         relevant_words_and_sources = {}
         for word in combination_of_words:
             relevant_words_and_sources[word] = words_and_sources[word]
-            titles_that_share_words = find_titles_that_share_combination_of_words(relevant_words_and_sources)
-            if titles_that_share_words != []:
-                combinations_of_words_with_list_of_article_titles_that_share_them[combination_of_words] = titles_that_share_words
+        titles_that_share_words = find_titles_that_share_combination_of_words(relevant_words_and_sources)
+        if titles_that_share_words != []:
+            combinations_of_words_with_list_of_article_titles_that_share_them[combination_of_words] = titles_that_share_words
 
     # DEBUG: find_titles_that_share_combination_of_words({'hello': [1,2,3,4,5,6], 'hi': [2,3,4,7,8], 'hey': [2,3,4,5,9,0]})
     
-    # print(combinations_of_words_with_list_of_article_titles_that_share_them)
     return combinations_of_words_with_list_of_article_titles_that_share_them
 
 def filter_combinations_of_words_with_enough_articles_to_form_a_cohort(combinations_of_words_with_list_of_article_titles_that_share_them, minimum_number_of_articles_that_must_be_in_a_cohort):
@@ -114,7 +134,7 @@ def filter_combinations_of_words_with_enough_articles_to_form_a_cohort(combinati
     for combination_of_words in combinations_of_words_with_list_of_article_titles_that_share_them:
         if len(combinations_of_words_with_list_of_article_titles_that_share_them[combination_of_words]) >= minimum_number_of_articles_that_must_be_in_a_cohort:
             valid_cohorts[combination_of_words] = combinations_of_words_with_list_of_article_titles_that_share_them[combination_of_words]
-    # print(valid_cohorts)
+    
     return valid_cohorts
 
 def find_valid_cohorts(words_and_sources, minimum_number_of_words_articles_in_a_cohort_must_share_in_their_title, minimum_number_of_articles_that_must_be_in_a_cohort):
