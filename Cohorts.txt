@@ -1,0 +1,96 @@
+************************************************************
+Cohort Words: process, management, business
+
+Cohort Articles:
+The State of the Art of Business Process Management Research as Published in the BPM Conference
+Jan ReckerJan Mendling
+
+The Role of Gender in Business Process Management Competence Supply
+Elena GorbachevaArmin SteinOliver Müller
+
+Interview with Michael Rosemann on “The Role of Business Process Management in Modern Organizations”
+Marcello La Rosa
+
+Business Process Management
+Wil M. P. van der AalstMarcello La RosaFlávia Maria Santoro
+
+************************************************************
+
+************************************************************
+Cohort Words: design, optimization, system
+
+Cohort Articles:
+A submarine arrangement design program based on the expert system and the multistage optimization
+Ki-Su Kim, Myung-Il Roh
+
+Optimization design of a disc brake system with hybrid uncertainties
+Hui Lü, Dejie Yu
+
+Pattern-based integration of system optimization in mechatronic system design
+Wenqiang Yuan, Yusheng Liu, Jianjun Zhao, Hongwei Wang
+
+************************************************************
+
+************************************************************
+Cohort Words: model, checking, probabilistic
+
+Cohort Articles:
+Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters
+Guoxin Su;Yuan Feng;Taolue Chen;David S. Rosenblum
+
+Probabilistic Model Checking of Regenerative Concurrent Systems
+Marco Paolieri;András Horváth;Enrico Vicario
+
+Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters
+Guoxin Su;Yuan Feng;Taolue Chen;David S. Rosenblum
+
+************************************************************
+
+************************************************************
+Cohort Words: model, business, process
+
+Cohort Articles:
+Understanding the influence of absorptive capacity and ambidexterity on the process of business model change – the case of on‐premise and cloud‐computing software
+Johann J. Kranz André Hanelt Lutz M. Kolbe
+
+The Use of Process Mining in Business Process Simulation Model Construction
+Niels MartinBenoît DepaireAn Caris
+
+Criteria and Heuristics for Business Process Model Decomposition
+Fredrik MilaniMarlon DumasSilva Kasela
+
+************************************************************
+
+************************************************************
+Cohort Words: engineering, information, systems, business
+
+Cohort Articles:
+Erratum to: Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+Open Research in Business and Information Systems Engineering
+Wil van der AalstMartin BichlerArmin Heinzl
+
+Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+************************************************************
+
+************************************************************
+Cohort Words: information, systems, business
+
+Cohort Articles:
+Interview with Frank van Harmelen on “Linked Data and Business Information Systems”
+Sören Auer
+
+Erratum to: Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+Open Research in Business and Information Systems Engineering
+Wil van der AalstMartin BichlerArmin Heinzl
+
+Theories in Business and Information Systems Engineering
+Martin BichlerUlrich FrankBernhard Thalheim
+
+************************************************************
+
